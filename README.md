@@ -1,2 +1,3 @@
 # Projetos
-Projetos avulsos e de faculdade
+  Projeto para testar HTML, CSS e JS. 
+  Ainda está sendo feito, não ligar para a bagunça...
