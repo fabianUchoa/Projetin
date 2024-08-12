@@ -1,0 +1,64 @@
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: #141414;
+    font: normal 18pr Arial;
+    background-size: cover;
+    /*background-position: center;*/
+}
+
+.logoimg, .logo{
+    float: left;
+}
+.logoimg{
+    margin: 38px 10px 0px 60px;
+    width: 80px;
+}
+.logo{
+    padding: 40px 0px 0px 0px;
+    font-size: 47px;
+    color: white;
+    font-style:italic;
+    
+    font-family: fantasy, sans-serif;
+}
+
+.imgs, #text{
+    float: left;
+}
+
+.imgs{
+    padding: 8% 0% 0% 28%;
+}
+#sobre{
+    
+ 
+    padding: 200px 0px 0px 100px;
+    font: 50pt Arial;
+    color: yellow;
+    font-size: 80px;
+    font-family: fantasy, sans-serif;
+    font-style: italic;
+    width: 700px;
+    text-align: left;
+
+}
+
+
+#text{
+    
+    justify-content: start;
+    margin-left: 5vw;
+    padding: 20px;
+    font: 50pt Arial;
+    color: white;
+    font-size: 40px;
+    font-style: normal 18pt Arial;
+    width: 800px;
+    height: auto;
+    justify-content: center;
+    text-align: left;
+    
+
+}

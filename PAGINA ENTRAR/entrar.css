@@ -1,0 +1,26 @@
+
+body{
+    background-image: url(imagens/imagem-fundo.jpg);
+    background-color: #141414;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font: normal 18pr Arial;
+    margin: none;
+    /*background-position: center;*/
+}
+
+.logoimg, .logo{
+    float: left;
+}
+.logoimg{
+    margin: 30px 10px 0px 52px;
+    width: 80px;
+}
+.logo{
+    padding: 32px 0px 0px 0px;
+    font-size: 47px;
+    color: white;
+    font-style:italic;
+    
+    font-family: fantasy, sans-serif;
+}

@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    
+  
+}
+
+body{
+    
+
+    background-color: #141414;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font: normal 18pr Arial;
+    /*background-position: center;*/
+    
+   
+}
+
+.tela1{
+    position: relative;
+}
+
+
+#logoimg, #logo{
+    float: left;
+}
+
+#logoimg, #logo, #frase, #make, #entrar #entrarcss{
+    position: absolute;
+
+}
+
+#logoimg{
+    margin: 38px 10px 0px 60px;
+    width: 80px;
+}
+#logo{
+    padding: 40px 0px 0px 0px;
+    font-size: 47px;
+    color: white;
+    font-style:italic;
+    font-family: fantasy, sans-serif;
+}
+
+
+
+
+#frase{
+    
+    color: white;
+    padding: 30px;
+    width: 1200px;
+    text-align: center;    
+    font-size: 160px ;
+    font-family: fantasy, sans-serif;
+    font-style: italic;
+    top: 28%; 
+    right: 18%;
+    
+
+    
+}
+#conheca{
+    text-align: center;
+
+    
+}
+#make{
+    font-size: 18px;
+    background: yellow;
+    border-radius: 30px;
+    padding: 20px;
+    width: 300px;
+    height: 80px;
+    border:none;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.485);
+    text-align: center; 
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+#entrar{
+    text-align: center;
+    padding: 50px;
+}
+
+#entrarcss{
+    
+    background: transparent;
+    color: white;
+    border: none;
+    padding: 10px 10px 0px 10px;
+    border-bottom: 2px solid white;
+    text-align: center;
+    font-size: 25px ;
+    font-weight: bold;
+    font-family: monospace;
+    text-transform: uppercase;
+    
+}
